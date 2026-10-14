@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.pulsesenseai.app-release-73:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.example.pulsesenseai.app-main-74:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pulsesenseai.app-release-73:/mipmap_ic_launcher.png.flat",
+        "source": "com.example.pulsesenseai.app-main-74:/mipmap/ic_launcher.png"
+    }
+]

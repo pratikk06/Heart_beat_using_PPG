@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.pulsesenseai.app-mergeReleaseResources-71:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/pratik/.gradle/caches/9.8.1/transforms/5ffbacb21e6eb89fdbe716f45ce613f8/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

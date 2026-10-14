@@ -1,0 +1,13 @@
+.gradle/
+/build/
+/.gradle/
+*.gradle*
+local.properties
+*.log
+.idea/
+*.iml
+*.jks
+.DS_Store
+*.hprof
+*.zip
+.git_backup/
